@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5225f2e8-c579-41f7-a117-edb37e0cbaea" name="Default Changelist" comment="" />
+    <list default="true" id="5225f2e8-c579-41f7-a117-edb37e0cbaea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BravoFC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BravoFC/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BravoFC/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BravoFC/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BravoFC/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchs/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchs/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchs/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchs/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchs/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchs/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams/views.py" beforeDir="false" />
+    </list>
     <ignored path=".gitignore" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,26 +65,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="2" />
-          <entry key="py" value="2" />
+          <entry key="gitignore" value="3" />
+          <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3" />
+          <entry key="gitignore" value="58" />
+          <entry key="py" value="199" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="3" />
+          <entry key="PLAIN_TEXT" value="64" />
+          <entry key="Python" value="199" />
         </counts>
       </usages-collector>
     </session>
@@ -54,8 +95,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BravoFC/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="26" selection-start-line="26" selection-end-line="27" />
+            <state relative-caret-position="330">
+              <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teams/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teams/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <marker date="1533283967764" expanded="true" signature="82:87" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,8 +128,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="133" column="51" selection-start-line="133" selection-start-column="51" selection-end-line="133" selection-end-column="51" />
+            <state relative-caret-position="202">
+              <caret line="121" column="18" selection-start-line="121" selection-start-column="18" selection-end-line="121" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -78,6 +143,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/BravoFC/settings.py" />
+        <option value="$PROJECT_DIR$/teams/admin.py" />
+        <option value="$PROJECT_DIR$/teams/models.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -105,6 +172,11 @@
             <path>
               <item name="BravoFC" type="b2602c69:ProjectViewProjectNode" />
               <item name="BravoFC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BravoFC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BravoFC" type="462c0819:PsiDirectoryNode" />
+              <item name="teams" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,7 +266,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16680162" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50040483" side_tool="true" weight="0.32970452" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.24261275" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32503888" />
       <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49959514" weight="0.32970452" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.32970452" />
@@ -262,15 +334,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BravoFC/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="26" selection-start-line="26" selection-end-line="27" />
+        <state relative-caret-position="330">
+          <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teams/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teams/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <marker date="1533283967764" expanded="true" signature="82:87" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="133" column="51" selection-start-line="133" selection-start-column="51" selection-end-line="133" selection-end-column="51" />
+        <state relative-caret-position="202">
+          <caret line="121" column="18" selection-start-line="121" selection-start-column="18" selection-end-line="121" selection-end-column="18" />
         </state>
       </provider>
     </entry>
