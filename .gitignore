@@ -119,6 +119,7 @@ idea/
 
 ### Python Patch ###
 .venv/
+.env/
 
 ### migrations ###
 .teams/migrations/
