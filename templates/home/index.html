@@ -1,10 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends 'layout/index.html' %}
 
-</body>
-</html>
+{% block content %}
+    <h1>Home page</h1>
+
+    <p>{{ my_text }}</p>
+    <p>{{ my_number }}</p>
+
+    <ul>
+    {% for my_sub_item in my_list %}
+        <li>{{ forloop.counter }} - {{ my_sub_item }}</li>
+    {% endfor %}
+     </ul>
+
+{% endblock content %}
