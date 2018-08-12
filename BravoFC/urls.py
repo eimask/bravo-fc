@@ -16,9 +16,13 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
-from home import views
+from home.views import home_view
+from teams.views import team_list_view, team_detail_view, team_create_view
 
 urlpatterns = [
-    path('', views.home_view, name='home'),
+    path('', home_view, name='home'),
+    path('teams/', team_detail_view, name='team_list'),
+    # path('teams/a', team_detail_view, name='team_detail'),
+    path('teams/create/', team_create_view, name='team_create'),
     path('admin/', admin.site.urls),
 ]
